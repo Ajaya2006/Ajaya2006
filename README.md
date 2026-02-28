@@ -44,7 +44,7 @@ Location: India
 # 🎨 DESIGN PHILOSOPHY
 
 > **"Design is not just what it looks like and feels like. Design is how it works."**  
-> — Steve Jobs
+> — Ajaya Kumar 
 
 Leveraging a B.Tech CSE foundation with Adobe Certified creativity.  
 I bridge the gap between complex logic and intuitive visual storytelling.
@@ -81,7 +81,7 @@ I bridge the gap between complex logic and intuitive visual storytelling.
   <a href="https://github.com/Ajaya2006">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://www.linkedin.com/in/ajaya-kumar-sahoo-066a18321?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
