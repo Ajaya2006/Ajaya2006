@@ -1,100 +1,86 @@
-<p align="center">
-  <img src="https://ajaya-greeting-api.vercel.app/api/greeting" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hey, I'm Ajaya Kumar Sahoo</h1>
-<h3 align="center">🎨 Design Thinking Activated | 🖌️ UI/UX Architect | 🚀 Future Experience Engineer</h3>
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ajaya-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./ajaya-banner-light.svg?v=1">
+  <img src="./ajaya-banner.svg?v=7" alt="Ajaya Kumar Sahoo — System Architect" width="100%"/>
+</picture>
 
----
+</div>
 
-# 🟢 SYSTEM STATUS
+<br/>
 
-```bash
-> Booting AjayaOS v2.0...
-> Initializing Designer Profile...
-> Loading Visual Assets ███████████ 100%
-> Syncing Design Systems...
-> Status: ONLINE 🟢
-> Welcome, Ajaya 👨‍🎨
-```
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
----
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./ajaya-lanyard.svg?v=2" alt="Ajaya Kumar Sahoo ID badge" width="330"/>
 
-# 🧠 ABOUT SYSTEM
+</td>
+<td width="62%" valign="middle">
 
-```yaml
-Name: Ajaya Kumar Sahoo
-Role: UI/UX Designer & Frontend Architect
-Focus: User-Centric Design + Interactive Interfaces
-Currently Learning: Advanced Figma Prototyping & Design Systems
-Goal: Crafting Seamless Digital Experiences 🚀
-Location: India
-```
+### 🌟 My Creation Nexus
 
----
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🎨 Design System Core](https://github.com/AjaySahoo/Design-System-Core) | `CSS` `Figma` `React` | 20 |
+| [🤖 AI Chat Interface](https://github.com/AjaySahoo/AI-Chat-Interface) | `React` `OpenAI` `JS` | 15 |
+| [⚡ Cloud Architecture](https://github.com/AjaySahoo/Cloud-Architecture) | `AWS` `Terraform` `Python` | 12 |
+| [🖥️ Portfolio Generator](https://github.com/AjaySahoo/Portfolio-Generator) | `TypeScript` `Next.js` | 8 |
 
-# 🛠 TECH & DESIGN STACK
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,react,tailwind,framer,vite,vercel" />
-</p>
+> 💻 *"Design is not just what it looks like, design is how it works."*
 
----
+</td>
+</tr>
+</table>
 
-# 🎨 DESIGN PHILOSOPHY
+<br/>
 
-> **"Design is not just what it looks like and feels like. Design is how it works."**  
-> — Ajaya Kumar 
+<div align="center">
 
-Leveraging a B.Tech CSE foundation with Adobe Certified creativity.  
-I bridge the gap between complex logic and intuitive visual storytelling.
+### 📊 System Analytics
 
----
+<img src="./ajaya-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./ajaya-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-# 📊 SYSTEM ANALYTICS
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaya2006&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=AjaySahoo&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff7f&currStreakLabel=ffffff" alt="GitHub Streak"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ajaya2006&theme=chartreuse-dark&hide_border=true" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaya2006&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaySahoo&bg_color=0d1117&color=00d4ff&line=00ff7f&point=00d4ff&area=true&area_color=00ff7f&hide_border=true&custom_title=Contribution%20Graph%20⚡" alt="Contribution graph" width="95%"/>
 
----
+<br/><br/>
 
-# 🐍 CONTRIBUTION SNAKE
+<!-- 🏆 Trophies -->
+<img src="./ajaya-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajaya2006/Ajaya2006/main/github-contribution-grid-snake.svg" />
-</p>
+<br/><br/>
 
----
+### 🐍 Contribution Snake
 
-# 🌐 CONNECT WITH ME
+<img src="https://raw.githubusercontent.com/AjaySahoo/AjaySahoo/output/github-snake-cyan.svg" alt="Contribution snake"/>
 
-<p align="center">
-  <a href="https://github.com/Ajaya2006">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ajaya-kumar-sahoo-066a18321?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-</p>
+<br/><br/>
 
----
+### 📫 Connect with Me
 
-# ⚡ LIVE GREETING SYSTEM
+<a href="sahooajayaaks12345@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Ajaya2006"><img src="https://img.shields.io/badge/GitHub-00ff7f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ajayakumarsahoo"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-🔗 API Endpoint:  
-https://ajaya-greeting-api.vercel.app/api/greeting
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=AjaySahoo&color=00d4ff&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile views"/>
 
-<p align="center">
-🟢 SYSTEM ACTIVE | ⚡ Powered by Design Systems | 🎨 Designer Theme Enabled
-</p>
+<br/><br/>
+
+*⚡ System active. Ready to build.* ✨
+
+</div>
