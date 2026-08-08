@@ -77,7 +77,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AjaySahoo&color=00d4ff&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ajaya2006&color=00d4ff&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile views"/>
 
 <br/><br/>
 
